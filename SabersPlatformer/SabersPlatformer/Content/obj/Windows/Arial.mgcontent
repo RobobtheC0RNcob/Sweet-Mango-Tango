@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>E:/Visual Studio/Projects/SabersPlatformer/SabersPlatformer/Content/Arial.spritefont</SourceFile>
+  <SourceTime>2017-03-29T19:23:43.2989604+10:30</SourceTime>
+  <DestFile>E:/Visual Studio/Projects/SabersPlatformer/SabersPlatformer/Content/bin/Windows/Arial.xnb</DestFile>
+  <DestTime>2017-03-29T19:24:52.2543752+10:30</DestTime>
+  <Importer>FontDescriptionImporter</Importer>
+  <ImporterTime>2016-03-22T08:22:00+10:30</ImporterTime>
+  <Processor>FontDescriptionProcessor</Processor>
+  <ProcessorTime>2016-03-22T08:22:00+10:30</ProcessorTime>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Compressed</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>
